@@ -1,2 +1,2 @@
 # CodingBat-Submissions
-CodingBat Submissions in Python
+Solutions to all the challanges on CodingBat in Python
